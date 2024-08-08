@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kshirsagarswapnil@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Akhilesh/OneDrive/Desktop/Swapnil%20Kshirsagar%20-%20Resume.pdf](file:///C:/Users/Akhilesh/OneDrive/Desktop/Swapnil%20Kshirsagar%20-%20Resume.pdf)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
