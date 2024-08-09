@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="2003swapnil" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nextjs**
+- 🌱 I’m currently learning **Reactjs, Nextjs**.
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/swapnil_2003](https://linktr.ee/swapnil_2003)
 
